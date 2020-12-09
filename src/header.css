@@ -1,0 +1,32 @@
+.header-main {
+  background-color: #0288d1;
+}
+.logo {
+  text-align: right;
+}
+.logo p {
+  font-weight: 800;
+  border-top: 2px solid rgb(255, 255, 255);
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 50px;
+  color: aliceblue;
+}
+.search input {
+  background-color: rgb(255, 255, 255) !important;
+  margin-top: 10px !important;
+  border-radius: 10px !important;
+  padding-left: 10px !important;
+}
+.header-item {
+  margin-top: 10px;
+}
+.header-item .section1 button {
+  color: #0277bd !important;
+  font-weight: 800 !important;
+}
+.header-item .section2 i {
+  font-size: 50px;
+  color: white;
+}
